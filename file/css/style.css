@@ -90,7 +90,7 @@ h1{
 #pokemon{
     z-index:1;
     width: 150px;
-    max-height: 120px;
+    height: 120px;
 }
 
 .pesquisar{  
